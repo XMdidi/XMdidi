@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am an incoming PhD student at King Abdullah University of Science and Technology (KAUST) in Saudi Arabia, supervised by Prof. Ricardo Henao. I am currently working on Bioinformatics and Artificial Intelligence.
+
+Previously, I received my Bachelor's and Master's degree from the Department of Computer Science and Artificial Intelligence, Wuhan University of Technology (WUT), supervised by Prof. Jingling Yuan. I was selected as one of the Top 10 Outstanding WUT Graduate Representatives (10/13678), and my Master's thesis was rated as an Outstanding Master's Degree Thesis of WUT (Top 2%).
+
+My current research interests include but not limited to Natural Language Processing, Educational Data Mining, Survival Analysis, and Recommender Systems. I have published 11 papers (5 as the first author) at the both international and Chinese AI conferences and journals, for example, FGCS (JCR Q1, IF=7.307).
+
+Contact: shengdeming@whut.edu.cn
